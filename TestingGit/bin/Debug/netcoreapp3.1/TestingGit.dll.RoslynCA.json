@@ -1,0 +1,777 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Microsoft (R) Visual C# Compiler",
+        "version": "3.6.0.0",
+        "fileVersion": "3.6.0-4.20269.4 (c94e3215)",
+        "semanticVersion": "3.6.0",
+        "language": "en-US"
+      },
+      "results": [
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Controllers/WeatherForecastController.cs",
+                "region": {
+                  "startLine": 4,
+                  "startColumn": 1,
+                  "endLine": 4,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Program.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 18,
+                  "endLine": 12,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S4487",
+          "level": "warning",
+          "message": "Remove this unread private field '_logger' or refactor the code to use its value.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Controllers/WeatherForecastController.cs",
+                "region": {
+                  "startLine": 20,
+                  "startColumn": 61,
+                  "endLine": 20,
+                  "endColumn": 68
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Program.cs",
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Program.cs",
+                "region": {
+                  "startLine": 2,
+                  "startColumn": 1,
+                  "endLine": 2,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Program.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 1,
+                  "endLine": 3,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Program.cs",
+                "region": {
+                  "startLine": 4,
+                  "startColumn": 1,
+                  "endLine": 4,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Program.cs",
+                "region": {
+                  "startLine": 6,
+                  "startColumn": 1,
+                  "endLine": 6,
+                  "endColumn": 42
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Program.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 1,
+                  "endLine": 8,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Services/Test.cs",
+                "region": {
+                  "startLine": 2,
+                  "startColumn": 1,
+                  "endLine": 2,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Services/Test.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 1,
+                  "endLine": 3,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Services/Test.cs",
+                "region": {
+                  "startLine": 4,
+                  "startColumn": 1,
+                  "endLine": 4,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Startup.cs",
+                "region": {
+                  "startLine": 1,
+                  "startColumn": 1,
+                  "endLine": 1,
+                  "endColumn": 14
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Startup.cs",
+                "region": {
+                  "startLine": 2,
+                  "startColumn": 1,
+                  "endLine": 2,
+                  "endColumn": 34
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Startup.cs",
+                "region": {
+                  "startLine": 3,
+                  "startColumn": 1,
+                  "endLine": 3,
+                  "endColumn": 19
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Startup.cs",
+                "region": {
+                  "startLine": 4,
+                  "startColumn": 1,
+                  "endLine": 4,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Startup.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 1,
+                  "endLine": 7,
+                  "endColumn": 40
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Startup.cs",
+                "region": {
+                  "startLine": 8,
+                  "startColumn": 1,
+                  "endLine": 8,
+                  "endColumn": 32
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1128",
+          "level": "warning",
+          "message": "Remove this unnecessary 'using'.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Startup.cs",
+                "region": {
+                  "startLine": 12,
+                  "startColumn": 1,
+                  "endLine": 12,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3626",
+          "level": "warning",
+          "message": "Remove this redundant jump.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Services/Test.cs",
+                "region": {
+                  "startLine": 45,
+                  "startColumn": 41,
+                  "endLine": 45,
+                  "endColumn": 48
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3776",
+          "level": "warning",
+          "message": "Refactor this method to reduce its Cognitive Complexity from 35 to the 15 allowed.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Services/Test.cs",
+                "region": {
+                  "startLine": 13,
+                  "startColumn": 21,
+                  "endLine": 13,
+                  "endColumn": 28
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Services/Test.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 13,
+                  "endLine": 19,
+                  "endColumn": 15
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Services/Test.cs",
+                "region": {
+                  "startLine": 19,
+                  "startColumn": 21,
+                  "endLine": 19,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Services/Test.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 17,
+                  "endLine": 23,
+                  "endColumn": 19
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Services/Test.cs",
+                "region": {
+                  "startLine": 23,
+                  "startColumn": 28,
+                  "endLine": 23,
+                  "endColumn": 30
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Services/Test.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 21,
+                  "endLine": 27,
+                  "endColumn": 23
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Services/Test.cs",
+                "region": {
+                  "startLine": 27,
+                  "startColumn": 32,
+                  "endLine": 27,
+                  "endColumn": 34
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Services/Test.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 25,
+                  "endLine": 31,
+                  "endColumn": 27
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Services/Test.cs",
+                "region": {
+                  "startLine": 31,
+                  "startColumn": 36,
+                  "endLine": 31,
+                  "endColumn": 38
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Services/Test.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 29,
+                  "endLine": 35,
+                  "endColumn": 31
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Services/Test.cs",
+                "region": {
+                  "startLine": 35,
+                  "startColumn": 40,
+                  "endLine": 35,
+                  "endColumn": 42
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Services/Test.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 33,
+                  "endLine": 39,
+                  "endColumn": 35
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Services/Test.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 44,
+                  "endLine": 39,
+                  "endColumn": 46
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Services/Test.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 37,
+                  "endLine": 43,
+                  "endColumn": 39
+                }
+              }
+            },
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Services/Test.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 48,
+                  "endLine": 43,
+                  "endColumn": 50
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "0": "+1",
+              "1": "+1",
+              "10": "+6 (incl 5 for nesting)",
+              "11": "+1",
+              "12": "+7 (incl 6 for nesting)",
+              "13": "+1",
+              "2": "+2 (incl 1 for nesting)",
+              "3": "+1",
+              "4": "+3 (incl 2 for nesting)",
+              "5": "+1",
+              "6": "+4 (incl 3 for nesting)",
+              "7": "+1",
+              "8": "+5 (incl 4 for nesting)",
+              "9": "+1"
+            }
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Controllers/WeatherForecastController.cs",
+                "region": {
+                  "startLine": 32,
+                  "startColumn": 23,
+                  "endLine": 32,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2245",
+          "level": "warning",
+          "message": "Make sure that using this pseudorandom number generator is safe here.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/Users/vlatk/Desktop/TestRepo/TestingGit/TestingGit/Services/Test.cs",
+                "region": {
+                  "startLine": 15,
+                  "startColumn": 24,
+                  "endLine": 15,
+                  "endColumn": 36
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "S1118": {
+          "id": "S1118",
+          "shortDescription": "Utility classes should not have public constructors",
+          "fullDescription": "Utility classes, which are collections of static members, are not meant to be instantiated.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1118",
+          "properties": {
+            "category": "Major Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S1128": {
+          "id": "S1128",
+          "shortDescription": "Unused \"using\" should be removed",
+          "fullDescription": "Although unnecessary using won't change anything to the produced application, removing them:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-1128",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S2245": {
+          "id": "S2245",
+          "shortDescription": "Using pseudorandom number generators (PRNGs) is security-sensitive",
+          "fullDescription": "Using pseudorandom number generators (PRNGs) is security-sensitive. For example, it has led in the past to the following vulnerabilities:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2245",
+          "properties": {
+            "category": "Critical Security Hotspot",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "NotConfigurable"
+            ]
+          }
+        },
+        "S3626": {
+          "id": "S3626",
+          "shortDescription": "Jump statements should not be redundant",
+          "fullDescription": "Jump statements, such as return, yield break, goto, and continue let you change the default flow of program execution, but jump statements that direct the control flow to the original direction are just a waste of keystrokes.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3626",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S3776": {
+          "id": "S3776",
+          "shortDescription": "Cognitive Complexity of methods should not be too high",
+          "fullDescription": "Cognitive Complexity is a measure of how hard the control flow of a method is to understand. Methods with high Cognitive Complexity will be difficult to maintain.",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-3776",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": false,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope"
+            ]
+          }
+        },
+        "S4487": {
+          "id": "S4487",
+          "shortDescription": "Unread \"private\" fields should be removed",
+          "fullDescription": "Private fields only used to store values without reading them later is a case of dead store. So changing the value of such field is useless and most probably indicates a serious error in the code.",
+          "defaultLevel": "note",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-4487",
+          "properties": {
+            "category": "Critical Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "SonarWay",
+              "MainSourceScope",
+              "TestSourceScope",
+              "Unnecessary"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
